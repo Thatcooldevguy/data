@@ -1,4 +1,6 @@
 {
+    "Administration": [
+        {
             "Callsign": "101",
             "Name": "Craig Saperstein",
             "Rank": "Chief",
@@ -192,6 +194,9 @@
             "Discord": "/",
             "Steam": "/",
             "Phone #": "/"
+        },
+        {
+            "Hired By": "Paramedic"
         },
         {
             "Callsign": "601",
@@ -526,6 +531,9 @@
             "Phone #": "/"
         },
         {
+            "Hired By": "Recruit"
+        },
+        {
             "Callsign": "R01",
             "Name": "Paul Brown",
             "Rank": "Recruit",
@@ -675,6 +683,8 @@
             "Steam": "sticks",
             "Phone #": "582-958-7017"
         }
+    ],
+    "Psychology": [
         {
             "Callsign": "Jacenda Clarke",
             "Rank": "Head of Psychology",
@@ -846,4 +856,5 @@
             "Bonus": "FALSE",
             "Promotions": "/"
         }
-      }
+    ]
+ }

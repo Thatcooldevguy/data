@@ -69,9 +69,6 @@
             "Phone #": "858-841-1524"
         },
         {
-            "Hired By": "Administration"
-        },
-        {
             "Callsign": "A01",
             "Name": "Zane Ingram",
             "Rank": "Administrator",
@@ -194,9 +191,6 @@
             "Discord": "/",
             "Steam": "/",
             "Phone #": "/"
-        },
-        {
-            "Hired By": "Paramedic"
         },
         {
             "Callsign": "601",
@@ -361,9 +355,6 @@
             "Discord": "/",
             "Steam": "/",
             "Phone #": "/"
-        },
-        {
-            "Hired By": "EMT"
         },
         {
             "Callsign": "701",
@@ -531,9 +522,6 @@
             "Phone #": "/"
         },
         {
-            "Hired By": "Recruit"
-        },
-        {
             "Callsign": "R01",
             "Name": "Paul Brown",
             "Rank": "Recruit",
@@ -684,177 +672,4 @@
             "Phone #": "582-958-7017"
         }
     ],
-    "Psychology": [
-        {
-            "Callsign": "Jacenda Clarke",
-            "Rank": "Head of Psychology",
-            "Hired By": "Craig Saperstein",
-            "Date": "04/28/20",
-            "Timezone": "CST",
-            "Discord": "Jace#0575",
-            "Steam": "PandaKween10",
-            "Phone #": "725-062-6652"
-        },
-        {
-            "Callsign": "White Diamond",
-            "Rank": "Attending",
-            "Hired By": "Billy Kaplan-Smith",
-            "Date": "7/27/20",
-            "Timezone": "CST",
-            "Discord": "oGiizzyy#2841",
-            "Steam": "oGiizzyy_TTV",
-            "Phone #": "677-716-9372"
-        },
-        {
-            "Callsign": "Madison Chupador",
-            "Rank": "Attending",
-            "Hired By": "Billy Kaplan-Smith",
-            "Date": "/",
-            "Timezone": "CST",
-            "Discord": "Madison",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "Jagger Pushaman",
-            "Rank": "Resident",
-            "Hired By": "Craig Saperstein",
-            "Date": "8/19/20",
-            "Timezone": "MST",
-            "Discord": "Jagger#7275",
-            "Steam": "Jagger",
-            "Phone #": "443-978-6215"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Resident",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Resident",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Resident",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Resident",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/"
-        }
-    ],
-    "Neurology": [
-        {
-            "Callsign": "Casey Demerzel",
-            "Rank": "Head Of Neurology",
-            "Hired By": "Craig Saperstein",
-            "Date": "08/19/20",
-            "Timezone": "PST",
-            "Discord": "Demerzel#7060",
-            "Steam": "Demerzel",
-            "Phone #": "858-841-1524",
-            "Bonus": "FALSE",
-            "Promotions": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Bonus": "FALSE",
-            "Promotions": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Bonus": "FALSE",
-            "Promotions": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/",
-            "Bonus": "FALSE",
-            "Promotions": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/",
-            "Bonus": "FALSE",
-            "Promotions": "/"
-        },
-        {
-            "Callsign": "/",
-            "Rank": "Attending",
-            "Hired By": "/",
-            "Date": "/",
-            "Timezone": "/",
-            "Discord": "/",
-            "Steam": "/",
-            "Phone #": "/",
-            "Bonus": "FALSE",
-            "Promotions": "/"
-        }
-    ]
- }
+}
